@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 30px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+button{
+    margin: 5px 0px;
+    padding: 20px;
+}
+
+button:hover{
+    opacity: 80%;
+}
+
+#cadastro{
+    background-color: green;
+    border: none;
+    color: white;
+}
+
+#atualizar{
+    background-color: black;
+    border: none;
+    color: white;
+}
+
+#excluir{
+    background-color: red;
+    border: none;
+    color: white;
+}

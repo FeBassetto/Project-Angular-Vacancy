@@ -1,0 +1,18 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Full Stack junior",
+      "foto": "foto1.png",
+      "descricao": "Trabalhar com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Front End Stack junior",
+      "foto": "foto2.png",
+      "descricao": "Trabalhar com Node.js",
+      "salario": 7000
+    }
+  ]
+}

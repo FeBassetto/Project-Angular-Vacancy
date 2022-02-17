@@ -1,0 +1,14 @@
+.nav{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.nav li a{
+    color: white;
+}
+
+.nav li a:hover{
+    border-bottom: solid 2px white;
+}
